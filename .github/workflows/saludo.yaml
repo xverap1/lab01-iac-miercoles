@@ -6,7 +6,7 @@ on:
       - main
       - develop
 env:
-  NOMBRE: "Xiomara Natali"
+  nombre: "Xiomara Natali"
 
 jobs:
  saludo:
